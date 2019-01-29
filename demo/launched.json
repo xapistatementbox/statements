@@ -1,0 +1,22 @@
+{
+    "actor": {
+        "objectType": "Agent",
+        "name": "Guest",
+        "mbox_sha1sum": "eebc17aa5e5dbf9a5a291d47063c6d296f3ebd62"
+    },
+    "verb": {
+        "id": "http://adlnet.gov/expapi/verbs/launched",
+        "display": {
+            "en-US": "launched"
+        }
+    },
+    "object": {
+        "objectType": "Activity",
+        "id": "[URL]",
+        "definition": {
+            "name": {
+                "en-US": "Demo"
+            }
+        }
+    }
+}
